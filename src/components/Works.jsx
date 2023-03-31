@@ -1,3 +1,8 @@
+import Project1 from "../assets/img/project-image-1.jpg";
+import Project2 from "../assets/img/project-image-2.jpg";
+import Project3 from "../assets/img/project-image-3.jpg";
+import Project4 from "../assets/img/project-image-4.jpg";
+import Project5 from "../assets/img/project-image-5.jpg";
 import React from "react";
 
 function Works() {
@@ -20,7 +25,7 @@ function Works() {
 								</div>
 							</div>
 							<img
-								src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63a682788d62e6d569b874c8_project-image-1.jpg'
+								src={Project1}
 								loading='lazy'
 								width={603}
 								alt='Transport Image'
@@ -36,7 +41,7 @@ function Works() {
 								</div>
 							</div>
 							<img
-								src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63a68546f1c7f6ac3fc6e77f_project-image-2.jpg'
+								src={Project2}
 								loading='lazy'
 								width={594}
 								alt='Transport Image'
@@ -52,7 +57,7 @@ function Works() {
 								</div>
 							</div>
 							<img
-								src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63a685e5a56bae79c16917dd_project-image-3.jpg'
+								src={Project3}
 								loading='lazy'
 								width={534}
 								alt='Transport Image'
@@ -70,7 +75,7 @@ function Works() {
 								</div>
 							</div>
 							<img
-								src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63a685f1ddf22723d01e4041_project-image-4.jpg'
+								src={Project4}
 								loading='lazy'
 								width={519}
 								alt='Transport Image'
@@ -86,7 +91,7 @@ function Works() {
 								</div>
 							</div>
 							<img
-								src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63a685fb9e3218c51969a400_project-image-5.jpg'
+								src={Project5}
 								loading='lazy'
 								width={496}
 								alt='Transport Image'
