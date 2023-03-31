@@ -178,12 +178,6 @@ function Footer() {
 									</div>
 								</div>
 							</form>
-							<div className='success-message w-form-done'>
-								<div>Thank you! Your submission has been received!</div>
-							</div>
-							<div className='error-message w-form-fail'>
-								<div>Oops! Something went wrong while submitting the form.</div>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -194,19 +188,13 @@ function Footer() {
 						data-w-id='1a03c1d7-10ce-f356-ab94-97121185edc5'
 						className='copyright-wrap'>
 						<p className='copyright-text'>
-							Copyright © TransitFlow | Designed by
-							<a
-								href='https://www.victorflow.com/'
-								target='_blank'
-								className='copyright-link'>
-								VictorFlow{"{"}" "{"}"}
+							Copyright © TransitFlow | Designed by {""}
+							<a href='#' target='_blank' className='copyright-link'>
+								{""}Izi Martin
 							</a>
-							- Powered by
-							<a
-								href='https://webflow.com/'
-								target='_blank'
-								className='copyright-link'>
-								Martins
+							{""} - Powered by
+							<a href='#' target='_blank' className='copyright-link'>
+								{""} Nupat
 							</a>
 							.
 						</p>

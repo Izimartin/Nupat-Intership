@@ -1458,7 +1458,7 @@ textarea.w-select {
 	display: none;
 	bottom: 0;
 	left: 0;
-	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0yMCAwIDI0IDQwIiB3aWR0aD0iMjQiIGhlaWdodD0iNDAiPjxnIHRyYW5zZm9ybT0icm90YXRlKDQ1KSI+PHBhdGggZD0ibTAgMGg1djIzaDIzdjVoLTI4eiIgb3BhY2l0eT0iLjQiLz48cGF0aCBkPSJtMSAxaDN2MjNoMjN2M2gtMjZ6IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPg==");
+	background-image: url("../src/assets/");
 }
 .w-lightbox-right {
 	display: none;
@@ -2722,7 +2722,7 @@ blockquote {
 	position: relative;
 	padding-top: 180px;
 	padding-bottom: 180px;
-	background-image: url("../63c8d890c4030a62e9127a34_footer-image.jpg");
+	background-image: url("../src/assets/img/footer-image.jpg");
 	background-position: 50% 50%;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -2960,7 +2960,7 @@ blockquote {
 	padding-top: 250px;
 	padding-bottom: 220px;
 	background-color: #091242;
-	background-image: url("../63e0929d3f861255c6850881_home-banner-image.jpg");
+	background-image: url("../src/assets/img/home-banner-image.jpg");
 	background-position: 50% 50%;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -6026,7 +6026,7 @@ blockquote {
 				color-stop(85%, hsla(0, 0%, 100%, 0)),
 				to(rgba(187, 190, 203, 0.13))
 			),
-			url("../63a5919885e33dd1ce31aabe_service-image.jpg");
+			url("../src/assets/img/63a5919885e33dd1ce31aabe_service-image.jpg");
 		background-image: linear-gradient(
 				0deg,
 				#091242,
@@ -6034,7 +6034,7 @@ blockquote {
 				hsla(0, 0%, 100%, 0) 85%,
 				rgba(187, 190, 203, 0.13)
 			),
-			url("../63a5919885e33dd1ce31aabe_service-image.jpg");
+			url("../src/assets/img/service-image.jpg");
 		background-position: 0px 0px, 0px 0px;
 		background-size: auto, auto;
 	}
