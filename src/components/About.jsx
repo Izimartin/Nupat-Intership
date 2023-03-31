@@ -1,3 +1,5 @@
+import About1 from "../assets/img/about-flight-image.jpg";
+import About2 from "../assets/img/about-image-2.jpg";
 import React from "react";
 
 function About() {
@@ -54,18 +56,18 @@ function About() {
 								id='w-node-dc32ca33-0de6-a0a0-b02f-f4ba32e57412-42f829bf'
 								className='about-image-wrap'>
 								<img
-									src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63d0af438842ec7ef1ac4895_about-flight-image.jpg'
+									src={About1}
 									loading='lazy'
 									data-w-id='1f1a020d-bc25-9847-fe2e-8058c0c407c2'
 									alt='Cargo Image'
-									style={{ opacity: 0 }}
+									style={{ opacity: 1 }}
 								/>
 								<div className='about-image'>
 									<img
-										src='../assets.website-files.com/63a43a1633ad3e2a969a6958/63a5a12bed59557597246f6f_about-image-2.jpg'
+										src={About2}
 										loading='lazy'
 										width={463}
-										style={{ opacity: 0 }}
+										style={{ opacity: 1 }}
 										alt='Image'
 										data-w-id='a1694d50-ac23-3322-e1d9-d10c75532548'
 									/>

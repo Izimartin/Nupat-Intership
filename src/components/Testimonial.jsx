@@ -25,7 +25,7 @@ function Testimonial() {
 						data-easing='ease'
 						data-hide-arrows='false'
 						data-disable-swipe='false'
-						data-autoplay-limit={0}
+						data-autoplay-limit={1}
 						data-nav-spacing={3}
 						data-duration={500}
 						data-infinite='true'>
