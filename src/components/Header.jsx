@@ -7,7 +7,7 @@ function Header() {
 				<div className='container w-container'>
 					<div className='header-link-wrap'>
 						<a
-							href='index.html'
+							href='/'
 							aria-current='page'
 							className='logo-wrap w-inline-block w--current'>
 							<img

@@ -76,7 +76,7 @@ function Contact() {
 								method='get'
 								name='email-form'
 								data-name='Email Form'
-								style={{ opacity: 0 }}
+								style={{ opacity: 1 }}
 								data-w-id='7ce10f7b-78a2-c027-bbec-c5925ddcd9cc'
 								id='email-form'
 								className='contact-form'>
