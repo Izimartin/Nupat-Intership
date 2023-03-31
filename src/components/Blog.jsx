@@ -18,7 +18,7 @@ function Blog() {
 								<div role='listitem' className='w-dyn-item'>
 									<div
 										data-w-id='4e9d197a-d99d-e72d-6bf7-bb2aea974293'
-										style={{ opacity: 0 }}
+										style={{ opacity: 1 }}
 										className='blog-wrap'>
 										<a
 											data-w-id='4e9d197a-d99d-e72d-6bf7-bb2aea974294'
@@ -37,7 +37,7 @@ function Blog() {
 												'
 											/>
 											<div
-												style={{ display: "none", opacity: 0 }}
+												style={{ display: "none", opacity: 1 }}
 												className='blog-image-overlay'>
 												<p className='blog-read-more-link'>Read More</p>
 											</div>
@@ -82,7 +82,7 @@ function Blog() {
 								<div role='listitem' className='w-dyn-item'>
 									<div
 										data-w-id='4e9d197a-d99d-e72d-6bf7-bb2aea974293'
-										style={{ opacity: 0 }}
+										style={{ opacity: 1 }}
 										className='blog-wrap'>
 										<a
 											data-w-id='4e9d197a-d99d-e72d-6bf7-bb2aea974294'
@@ -101,7 +101,7 @@ function Blog() {
 												'
 											/>
 											<div
-												style={{ display: "none", opacity: 0 }}
+												style={{ display: "none", opacity: 1 }}
 												className='blog-image-overlay'>
 												<p className='blog-read-more-link'>Read More</p>
 											</div>
@@ -145,7 +145,7 @@ function Blog() {
 								<div role='listitem' className='w-dyn-item'>
 									<div
 										data-w-id='4e9d197a-d99d-e72d-6bf7-bb2aea974293'
-										style={{ opacity: 0 }}
+										style={{ opacity: 1 }}
 										className='blog-wrap'>
 										<a
 											data-w-id='4e9d197a-d99d-e72d-6bf7-bb2aea974294'
